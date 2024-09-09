@@ -2,5 +2,5 @@
 
 int main(){
     prinf('Hello, Vova!\n');
-    return 0;
+    return 1;
 }
