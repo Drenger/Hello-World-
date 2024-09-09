@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    prinf('Hello, Vova!\n');
-    return 1;
+    printf("Hello, Vova!\n");
+    printf("Goodbye, Vova!\n");
+    return 0;
 }
